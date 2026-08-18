@@ -1,6 +1,9 @@
 # 👩‍💻 Sobre mí
 
 ## ¡Hola! Soy Nayeli Hernández 👋
+<p align="center">
+  <img src="foto-nayeli.jpg" width="200">
+</p>
 
 Soy estudiante de **tercer año de Desarrollo de Software** en el **Instituto Nacional de Apopa**. Tengo **18 años** y mi sexo biológico es **femenino**.
 
