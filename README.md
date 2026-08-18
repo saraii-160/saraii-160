@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👩‍💻 Sobre mí
 
-<!--
-**saraii-160/saraii-160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Hola! Soy Nayeli Hernández 👋
 
-Here are some ideas to get you started:
+Soy estudiante de **tercer año de Desarrollo de Software** en el **Instituto Nacional de Apopa**. Tengo **18 años** y mi sexo biológico es **femenino**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Conocimientos
+
+Cuento con conocimientos básicos en diferentes áreas de informática, entre ellos:
+
+- 🗄️ Gestión de bases de datos
+- 💻 Programación básica
+- 🌐 Desarrollo de software
+- 🖥️ Conceptos generales de informática
+- 🔧 Uso de herramientas tecnológicas
+
+### 📚 Actualmente aprendiendo
+
+Actualmente estoy ampliando mis conocimientos en:
+
+- 🐙 **GitHub**
+- 💻 Nuevos programas y herramientas informáticas
+- 🚀 Tecnologías relacionadas con el desarrollo de software
+
+### 💗 Mis gustos
+
+Algunas cosas que me gustan son:
+
+- 💃 Bailar
+- 🩷 El color rosado
+- 🍣 El sushi
+
+### 🎯 Mi objetivo
+
+Seguir desarrollando mis habilidades en programación y tecnología, aprender nuevas herramientas y adquirir más experiencia en el área del **desarrollo de software**.
+
+---
+
+> 💡 *"Cada línea de código es una oportunidad para aprender algo nuevo."*
